@@ -1,0 +1,47 @@
+
+          body 
+          { background-color: rgb(143, 192, 177);
+        }
+        
+        .a { color: rgb(138, 50, 43);
+        border: 10px solid rgb(3, 75, 71);
+        text-align: center;
+        border-width: 10px;
+        border-bottom: 0px;
+        font-size: 45px;
+        
+        }
+        .idk {color: rgb(138, 50, 43);
+        text-align: center;
+        border: 10px solid rgb(3, 75, 71);
+        border-top: 0px;
+        border-width: 10px;
+        font-size: 28px;
+        line-height: 2em;
+        }
+        
+        p { font-size: 30px;
+            color: rgb(53, 53, 53);
+        }
+
+        h3 {font-size: 35px;
+        border-bottom: 4px solid rgb(3, 75, 71);
+            color: rgb(138, 50, 43);
+
+        }
+        
+        .list {font-size: 30px;
+          color: rgb(53, 53, 53);
+         }
+    
+        img {height: 300px;
+          border: 15px solid rgb(3, 75, 71);
+          margin-left: auto;
+          margin-right: auto;
+          display: block;
+        }
+
+        .first-line {text-align: center;
+          font-size: 30px;
+        
+        }
